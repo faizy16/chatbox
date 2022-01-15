@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(16, 219, 124);
+}
+.profile-image{
+    width:50px;
+    height: 50px;
+    border-radius: 25px;
+}
+.redo{
+    padding-left: 250px;
+}
+.p{
+    width: 100%;
+    height: 45px;
+    background-color: blue;
+    border-radius: 10px;
+    color: rgb(233, 227, 227);
+}
+p{
+    text-align: center;
+}
+.p1{
+    border-radius: 10px;
+    background-color: rgb(0, 139, 139);
+    color: rgb(235, 235, 235);
+}
+.button{
+    border-radius: 100px;
+    background-color: rgb(32, 139, 5);
+    color: rgb(243, 237, 237);
+}
